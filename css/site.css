@@ -1,0 +1,131 @@
+.titreCouleur {
+    color: #27bebe;
+}
+
+.listeLiens {
+    list-style: none;
+}
+
+img {
+
+    position: relative;
+    border-radius: 10px;
+    top: -270px;
+    left: 650px;
+    width: 800px;
+    height: 200px;
+}
+
+.tech {
+
+    top: -270px;
+    left: 650px;
+    width: 800px;
+    height: 200px;
+
+}
+
+.repa {
+
+    width: 500px;
+    height: 300px;
+    top: -10px;
+    left: -200px;
+}
+
+.repa2 {
+
+    width: 500px;
+    height: 300px;
+    top: -310px;
+    left: 500px;
+
+}
+
+.next {
+
+    width: 400px;
+    height: 200px;
+    top: -5px;
+    left: 300px;
+
+}
+
+.cms {
+
+    width: 400px;
+    height: 200px;
+    top: -5px;
+    left: 300px;
+
+}
+
+.wpress {
+
+    width: 400px;
+    height: 200px;
+    top: -5px;
+    left: -50px;
+}
+
+.presta {
+
+    width: 400px;
+    height: 200px;
+    top: -5px;
+    left: 200px;
+
+}
+
+.contact {
+
+    position: relative;
+    top: -150px;
+    left: 400px;
+    width: 900px;
+    height: 180px;
+}
+
+.terra {
+
+    position: relative;
+    border-radius: 10px;
+    top: -270px;
+    left: 650px;
+    width: 800px;
+    height: 200px;
+
+}
+
+.sio {
+
+    width: 300px;
+    height: 100px;
+    top: -270px;
+    left: -500px;
+
+}
+
+.col-3 {
+
+    top: -150px;
+}
+
+.col-9 {
+
+    top: -150px;
+}
+
+.cv {
+
+    width: 800px;
+    height: 1000px;
+    top: -10px;
+    left: 200px;
+
+}
+
+footer {
+
+    text-align: center;
+}
